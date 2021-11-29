@@ -1,0 +1,33 @@
+.align {
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+    font-size: large;
+    border: 1px solid black;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(211, 49, 49);
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', ' Calibri', 'Trebuchet MS', 'sans-serif';
+}
+
+td {
+    background-color:beige;
+    border: 1px solid beige;
+}
+
+th,
+td {
+    font-weight: bold;
+    border: 1px solid beige;
+    padding: 10px;
+    text-align: center;
+}
+
+td {
+    font-weight: lighter;
+}
